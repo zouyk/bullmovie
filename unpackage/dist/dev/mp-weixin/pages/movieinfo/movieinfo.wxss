@@ -1,0 +1,85 @@
+.top_search.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  background-color: #F0AD4E;
+  color: #fff;
+  padding: 0  10px;
+}
+.scroll_view.data-v-4e9af184 {
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+.movie_title.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 15rpx;
+}
+.movie_title image.data-v-4e9af184 {
+  width: 120px;
+  height: 160px;
+}
+.movie_title .right_view.data-v-4e9af184 {
+  color: #808080;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 12px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  padding: 10px 20px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.movie_title .right_view button.data-v-4e9af184 {
+  background: #F0AD4E;
+  color: #fff;
+}
+.rage_view.data-v-4e9af184 {
+  padding: 10px;
+  background: #F1F1F1;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.rage_view .rage_title.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.rage_view .rage_bottom.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.take_view.data-v-4e9af184 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: 20px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  white-space: normal;
+}
+

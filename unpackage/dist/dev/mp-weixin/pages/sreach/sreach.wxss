@@ -1,0 +1,52 @@
+
+.search_view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background-color: #F0AD4E;
+	padding: 2px;
+	padding-left: 20px;
+}
+.search_view text {
+	width: 60px;
+	padding: 0 10px;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+}
+.search_view input {
+	background-color: #fff;
+	wdith: 80%;
+	border-radius: 15px;
+	padding-left: 10px;
+}
+
+/* 电影列表 */
+.movelist {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 0 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.movelist image {
+	width: 80px;
+	height: 100px;
+}
+.movelist .right_view {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	padding: 20px;
+	padding-right: 0;
+	box-sizing: border-box;
+}
+
